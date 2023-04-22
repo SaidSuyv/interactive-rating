@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+*{padding: 0;margin: 0;}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+:root
+{
+    --orange: hsl(25, 97%, 53%);
+    --white: #fff;
+    --light-grey: hsl(217, 12%, 63%);
+    --medium-grey-faded: hsla(216, 12%, 54%, 0.1);
+    --medium-grey: hsl(216, 12%, 54%);
+    --dark-blue: hsl(213, 19%, 18%);
+    --very-dark-blue: hsl(216, 12%, 8%);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');

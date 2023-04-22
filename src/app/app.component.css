@@ -1,0 +1,10 @@
+main
+{
+    height: 100%;
+    background-color: hsl(216, 12%, 8%);
+
+    display: grid;
+    place-items: center;
+
+    padding: 0 1.5em;
+}

@@ -30,6 +30,7 @@
 .selection-cont p{
     color: var(--orange);
     font-size: .94rem;
+    margin: 0;
 }
 
 .text
